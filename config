@@ -171,9 +171,9 @@ bar {
 #ColorScheme
 
 #class			 border	 backgr. text    indicator child_border	
-client.focused           #005BC3 #005BC3 #ffffff #c3c3c3   #131313
-client.focused_inactive  #131313 #131313 #BFBFBF #c3c3c3   #131313
-client.unfocused	 #131313 #131313 #BFBFBF #c3c3c3   #131313
+client.focused           #005BC3 #005BC3 #ffffff #c3c3c3   #202020
+client.focused_inactive  #3F4346 #3F4346 #BFBFBF #c3c3c3   #131313
+client.unfocused	 #3F4346 #3F4346 #BFBFBF #c3c3c3   #131313
 client.urgent		 #F20422 #F20422 #ffffff #c3c3c3   #131313
 client.placeholder       #131313 #131313 #ffffff #c3c3c3   #131313
 
