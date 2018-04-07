@@ -1,0 +1,57 @@
+URxvt.scrollBar: false
+URxvt.font: xft:DejaVu Sans Mono for Powerline:size=12,xft:FontAwesome:size=12,
+URxvt.letterSpace: -1
+
+Xft*dpi: 96
+Xft*antialias: true
+Xft*hinting: full
+
+URxvt*foreground:  #d6dbe5
+URxvt*background:  #202020
+URxvt*cursorColor: #b9b9b9
+!
+! Black
+URxvt*color0:      #1f1f1f
+URxvt*color8:      #d6dbe5
+!
+! Red
+URxvt*color1:      #f81118
+URxvt*color9:      #de352e
+!
+! Green
+URxvt*color2:      #2dc55e
+URxvt*color10:     #1dd361
+!
+! Yellow
+URxvt*color3:      #ecba0f
+URxvt*color11:     #f3bd09
+!
+! Blue
+URxvt*color4:      #2a84d2
+URxvt*color12:     #1081d6
+!
+! Magenta
+URxvt*color5:      #4e5ab7
+URxvt*color13:     #5350b9
+!
+! Cyan
+URxvt*color6:      #1081d6
+URxvt*color14:     #0f7ddb
+!
+! White
+URxvt*color7:      #d6dbe5
+URxvt*color15:     #ffffff
+!
+! Bold, Italic, Underline
+URxvt*colorBD:     #d6dbe5
+
+URxvt.perl-ext-common: default,matcher,selection-to-clipboard
+URxvt.url-launcher: /usr/bin/xdg-open
+URxvt.matcher.button: 1
+
+!Rofi Config
+rofi.color-enabled: true
+rofi.color-window: #393939, #393939, #268bd2
+rofi.color-normal: #393939, #ffffff, #393939, #2a84d2, #ffffff
+rofi.color-active: #393939, #268bd2, #393939, #268bd2, #205171
+rofi.color-urgent: #393939, #f3843d, #393939, #268bd2, #ffc39c
