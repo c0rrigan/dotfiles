@@ -17,6 +17,12 @@ Plugin 'tpope/vim-surround'
 Plugin 'ervandew/supertab'
 "Futigitve.vim"
 Plugin 'tpope/vim-fugitive'
+
+Plugin 'altercation/vim-colors-solarized'
+
+Plugin 'scrooloose/syntastic'
+
+Plugin 'junegunn/goyo.vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 " To ignore plugin indent changes, instead use:
